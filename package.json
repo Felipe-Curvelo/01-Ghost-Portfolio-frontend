@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Felipe-Curvelo.github.io/01-Ghost-Portfolio-frontend",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +16,7 @@
     "axios": "^0.27.2",
     "framer-motion": "^6.3.0",
     "from": "^0.1.7",
+    "gh-pages": "^3.2.3",
     "import": "^0.0.6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -26,6 +28,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
