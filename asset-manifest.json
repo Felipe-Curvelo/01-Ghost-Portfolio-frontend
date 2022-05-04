@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/01-Ghost-Portfolio-frontend/static/js/main.b82fc0da.js",
+    "static/media/Logo.png": "/01-Ghost-Portfolio-frontend/static/media/Logo.f4edd9e7f5a76b2d29bc.png",
+    "index.html": "/01-Ghost-Portfolio-frontend/index.html",
+    "main.b82fc0da.js.map": "/01-Ghost-Portfolio-frontend/static/js/main.b82fc0da.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b82fc0da.js"
+  ]
+}
